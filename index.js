@@ -56,7 +56,7 @@ app.use((err, req, res, next) => {
 log('Starting server...');
 
 
-app.get('/api/test', (req, res) => {
+app.get('/', (req, res) => {
   res.json({ success: true, message: 'Deployment working!' });
 });
 
