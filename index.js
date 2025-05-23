@@ -56,6 +56,9 @@ app.use((err, req, res, next) => {
 log('Starting server...');
 
 
+app.get('/api/test', (req, res) => {
+  res.json({ success: true, message: 'Deployment working!' });
+});
 
 
 const PORT = process.env.PORT || 5000;
