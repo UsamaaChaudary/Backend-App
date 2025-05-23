@@ -32,7 +32,7 @@ app.use('/api/auth', authRouter);
 app.use('/uploads', express.static('uploads'));
 app.use('/api/user' , passwordRoutes);
 
-mongoose.connect('mongodb://127.0.0.1:27017/App', {
+mongoose.connect('mongodb+srv://faizan-abbas-786:Abcd%40786@lms.1dl1hkq.mongodb.net/LMS', {
   useNewUrlParser: true,
   useUnifiedTopology: true
 }).then(() => {
@@ -51,7 +51,12 @@ app.use((err, req, res, next) => {
   res.status(500).json({ success: false, msg: 'Server Error', error: err.message });
 });
 
+
+
 log('Starting server...');
+
+
+
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
