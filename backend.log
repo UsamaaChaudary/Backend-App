@@ -1,0 +1,316 @@
+[2025-04-21T08:15:45.181Z] Starting server...
+[2025-04-21T08:15:45.187Z] Server running on port 5000
+[2025-04-21T08:15:45.237Z] Connected to MongoDB
+[2025-04-21T08:17:15.107Z] Starting server...
+[2025-04-21T08:17:15.116Z] Server running on port 5000
+[2025-04-21T08:17:15.139Z] Connected to MongoDB
+[2025-04-21T08:20:47.656Z] Starting server...
+[2025-04-21T08:20:47.661Z] Server running on port 5000
+[2025-04-21T08:20:47.678Z] Connected to MongoDB
+[2025-04-21T08:28:36.685Z] Starting server...
+[2025-04-21T08:28:36.692Z] Server running on port 5000
+[2025-04-21T08:28:36.711Z] Connected to MongoDB
+[2025-04-21T09:24:37.240Z] Starting server...
+[2025-04-21T09:24:37.274Z] Server running on port 5000
+[2025-04-21T09:24:37.314Z] Connected to MongoDB
+[2025-04-22T08:35:35.557Z] Starting server...
+[2025-04-22T08:35:35.584Z] Server running on port 5000
+[2025-04-22T08:35:35.619Z] Connected to MongoDB
+[2025-04-22T09:11:56.702Z] Starting server...
+[2025-04-22T09:11:56.737Z] Server running on port 5000
+[2025-04-22T09:11:56.809Z] Connected to MongoDB
+[2025-04-22T09:36:45.611Z] Starting server...
+[2025-04-22T09:36:45.642Z] Server running on port 5000
+[2025-04-22T09:36:45.678Z] Connected to MongoDB
+[2025-04-22T09:38:19.295Z] Starting server...
+[2025-04-22T09:38:19.319Z] Server running on port 5000
+[2025-04-22T09:38:19.371Z] Connected to MongoDB
+[2025-04-22T09:39:16.920Z] Starting server...
+[2025-04-22T09:39:16.930Z] Server running on port 5000
+[2025-04-22T09:39:16.959Z] Connected to MongoDB
+[2025-04-22T09:44:44.340Z] Starting server...
+[2025-04-22T09:44:44.423Z] Server running on port 5000
+[2025-04-22T09:44:44.500Z] Connected to MongoDB
+[2025-04-22T09:46:02.058Z] Starting server...
+[2025-04-22T09:46:02.072Z] Server running on port 5000
+[2025-04-22T09:46:02.105Z] Connected to MongoDB
+[2025-04-22T09:48:01.435Z] Starting server...
+[2025-04-22T09:48:01.460Z] Server running on port 5000
+[2025-04-22T09:48:01.512Z] Connected to MongoDB
+[2025-04-23T15:59:49.084Z] Starting server...
+[2025-04-23T15:59:49.100Z] Server running on port 5000
+[2025-04-23T15:59:49.170Z] Connected to MongoDB
+[2025-04-25T06:07:55.412Z] Starting server...
+[2025-04-25T06:07:55.438Z] Server running on port 5000
+[2025-04-25T06:07:55.494Z] Connected to MongoDB
+[2025-04-25T10:26:41.942Z] Starting server...
+[2025-04-25T10:26:41.964Z] Server running on port 5000
+[2025-04-25T10:26:42.010Z] Connected to MongoDB
+[2025-04-25T10:48:22.281Z] GET /api/auth/uploads
+[2025-04-25T10:48:22.304Z] GET /api/auth/uploads
+[2025-04-25T11:38:05.416Z] Starting server...
+[2025-04-25T11:38:05.435Z] Server running on port 5000
+[2025-04-25T11:38:05.487Z] Connected to MongoDB
+[2025-04-25T12:09:58.482Z] Starting server...
+[2025-04-25T12:09:58.494Z] Server running on port 5000
+[2025-04-25T12:09:58.515Z] Connected to MongoDB
+[2025-04-25T15:38:04.606Z] Starting server...
+[2025-04-25T15:38:04.618Z] Server running on port 5000
+[2025-04-25T15:38:04.657Z] Connected to MongoDB
+[2025-04-25T15:53:29.034Z] Starting server...
+[2025-04-25T15:53:29.050Z] Server running on port 5000
+[2025-04-25T15:53:29.089Z] Connected to MongoDB
+[2025-04-28T05:14:41.702Z] Starting server...
+[2025-04-28T05:14:41.719Z] Server running on port 5000
+[2025-04-28T05:14:41.763Z] Connected to MongoDB
+[2025-04-28T05:52:29.833Z] Starting server...
+[2025-04-28T05:52:29.845Z] Server running on port 5000
+[2025-04-28T05:52:29.882Z] Connected to MongoDB
+[2025-04-28T07:52:38.862Z] Starting server...
+[2025-04-28T07:52:38.879Z] Server running on port 5000
+[2025-04-28T07:52:38.974Z] Connected to MongoDB
+[2025-04-28T09:29:42.654Z] Starting server...
+[2025-04-28T09:29:42.669Z] Server running on port 5000
+[2025-04-28T09:29:42.744Z] Connected to MongoDB
+[2025-04-29T04:11:17.263Z] Starting server...
+[2025-04-29T04:11:17.277Z] Server running on port 5000
+[2025-04-29T04:11:17.316Z] Connected to MongoDB
+[2025-04-29T04:13:53.594Z] Starting server...
+[2025-04-29T04:13:53.643Z] Server running on port 5000
+[2025-04-29T04:14:23.616Z] MongoDB connection error: connect ECONNREFUSED ::1:27017
+[2025-04-29T04:14:48.598Z] Starting server...
+[2025-04-29T04:14:48.609Z] Server running on port 5000
+[2025-04-29T04:15:18.612Z] MongoDB connection error: connect ECONNREFUSED ::1:27017
+[2025-04-29T04:16:54.360Z] Starting server...
+[2025-04-29T04:16:54.367Z] Server running on port 5000
+[2025-04-29T04:17:24.372Z] MongoDB connection error: connect ECONNREFUSED ::1:27017
+[2025-04-29T04:18:57.967Z] Starting server...
+[2025-04-29T04:18:57.975Z] Server running on port 5000
+[2025-04-29T04:18:57.992Z] Connected to MongoDB
+[2025-04-29T23:51:42.281Z] Starting server...
+[2025-04-29T23:51:42.293Z] Server running on port 5000
+[2025-04-29T23:51:42.342Z] Connected to MongoDB
+[2025-04-30T00:07:43.109Z] GET /favicon.ico
+[2025-04-30T00:36:04.387Z] Starting server...
+[2025-04-30T00:36:04.401Z] Server running on port 5000
+[2025-04-30T00:36:04.432Z] Connected to MongoDB
+[2025-04-30T01:53:14.062Z] DELETE /api/auth/images/1745973434278-pic.png
+[2025-04-30T01:53:19.975Z] DELETE /api/auth/images/1745900665424-Capture1.JPG
+[2025-04-30T01:56:36.536Z] DELETE /api/auth/images/1744787685169-wallpaper-210347.jpg
+[2025-04-30T04:42:51.155Z] Starting server...
+[2025-04-30T04:42:51.169Z] Server running on port 5000
+[2025-04-30T04:42:51.218Z] Connected to MongoDB
+[2025-05-01T09:23:48.301Z] Starting server...
+[2025-05-01T09:23:48.315Z] Server running on port 5000
+[2025-05-01T09:23:48.382Z] Connected to MongoDB
+[2025-05-02T04:11:10.812Z] Starting server...
+[2025-05-02T04:11:10.820Z] Server running on port 5000
+[2025-05-02T04:11:10.850Z] Connected to MongoDB
+[2025-05-02T06:44:00.687Z] Starting server...
+[2025-05-02T06:44:00.702Z] Server running on port 5000
+[2025-05-02T06:44:00.745Z] Connected to MongoDB
+[2025-05-02T07:51:10.138Z] DELETE /api/auth/images/1744787685169-wallpaper-210347.jpg
+[2025-05-02T07:51:14.766Z] DELETE /api/auth/images/1744787685169-wallpaper-210347.jpg
+[2025-05-03T05:07:24.707Z] Starting server...
+[2025-05-03T05:07:24.718Z] Server running on port 5000
+[2025-05-03T05:07:24.760Z] Connected to MongoDB
+[2025-05-03T06:00:19.173Z] Starting server...
+[2025-05-03T06:00:19.185Z] Server running on port 5000
+[2025-05-03T06:00:19.211Z] Connected to MongoDB
+[2025-05-03T21:59:10.163Z] Starting server...
+[2025-05-03T21:59:10.228Z] Server running on port 5000
+[2025-05-03T21:59:10.295Z] Connected to MongoDB
+[2025-05-04T22:05:45.124Z] Starting server...
+[2025-05-04T22:05:45.140Z] Server running on port 5000
+[2025-05-04T22:05:45.195Z] Connected to MongoDB
+[2025-05-05T03:03:08.979Z] Starting server...
+[2025-05-05T03:03:08.987Z] Server running on port 5000
+[2025-05-05T03:03:09.014Z] Connected to MongoDB
+[2025-05-05T03:05:29.295Z] Starting server...
+[2025-05-05T03:05:29.304Z] Server running on port 5000
+[2025-05-05T03:05:29.367Z] Connected to MongoDB
+[2025-05-05T03:13:36.801Z] Starting server...
+[2025-05-05T03:13:36.812Z] Server running on port 5000
+[2025-05-05T03:13:36.866Z] Connected to MongoDB
+[2025-05-05T08:36:06.204Z] Starting server...
+[2025-05-05T08:36:06.218Z] Server running on port 5000
+[2025-05-05T08:36:06.244Z] Connected to MongoDB
+[2025-05-05T09:14:18.682Z] Starting server...
+[2025-05-05T09:14:18.696Z] Server running on port 5000
+[2025-05-05T09:14:18.749Z] Connected to MongoDB
+[2025-05-05T09:52:17.048Z] Starting server...
+[2025-05-05T09:52:17.056Z] Server running on port 5000
+[2025-05-05T09:52:17.073Z] Connected to MongoDB
+[2025-05-05T17:33:37.754Z] Starting server...
+[2025-05-05T17:33:37.767Z] Server running on port 5000
+[2025-05-05T17:33:37.812Z] Connected to MongoDB
+[2025-05-07T23:37:07.922Z] Starting server...
+[2025-05-07T23:37:07.933Z] Server running on port 5000
+[2025-05-07T23:37:07.962Z] Connected to MongoDB
+[2025-05-07T23:38:36.145Z] POST /api/user/forgot-password
+[2025-05-08T03:56:43.789Z] POST /api/user/forgot-password
+[2025-05-08T03:57:54.145Z] POST /api/user/forgot-password
+[2025-05-08T03:58:04.288Z] POST /api/user/forgot-password
+[2025-05-08T04:02:20.076Z] POST /api/user/forgot-password
+[2025-05-08T04:30:15.437Z] Starting server...
+[2025-05-08T04:30:15.446Z] Server running on port 5000
+[2025-05-08T04:30:15.480Z] Connected to MongoDB
+[2025-05-08T04:37:39.912Z] Starting server...
+[2025-05-08T04:37:39.927Z] Server running on port 5000
+[2025-05-08T04:37:39.973Z] Connected to MongoDB
+[2025-05-08T04:38:53.577Z] Starting server...
+[2025-05-08T04:38:53.589Z] Server running on port 5000
+[2025-05-08T04:38:53.648Z] Connected to MongoDB
+[2025-05-08T05:05:23.684Z] Starting server...
+[2025-05-08T05:05:23.694Z] Server running on port 5000
+[2025-05-08T05:05:23.726Z] Connected to MongoDB
+[2025-05-08T05:13:57.141Z] Starting server...
+[2025-05-08T05:13:57.154Z] Server running on port 5000
+[2025-05-08T05:13:57.217Z] Connected to MongoDB
+[2025-05-08T05:15:20.235Z] Starting server...
+[2025-05-08T05:15:20.244Z] Server running on port 5000
+[2025-05-08T05:15:20.273Z] Connected to MongoDB
+[2025-05-08T06:33:56.352Z] DELETE /api/auth/images/1746685684556-image-1746642497530.jpg
+[2025-05-08T07:15:46.699Z] Starting server...
+[2025-05-08T07:15:46.707Z] Server running on port 5000
+[2025-05-08T07:15:46.752Z] Connected to MongoDB
+[2025-05-08T07:48:35.634Z] Starting server...
+[2025-05-08T07:48:35.641Z] Server running on port 5000
+[2025-05-08T07:48:35.663Z] Connected to MongoDB
+[2025-05-08T08:23:42.876Z] Starting server...
+[2025-05-08T08:23:42.884Z] Server running on port 5000
+[2025-05-08T08:23:42.914Z] Connected to MongoDB
+[2025-05-08T10:11:38.239Z] Starting server...
+[2025-05-08T10:11:38.250Z] Server running on port 5000
+[2025-05-08T10:11:38.295Z] Connected to MongoDB
+[2025-05-09T05:58:29.064Z] Starting server...
+[2025-05-09T05:58:29.079Z] Server running on port 5000
+[2025-05-09T05:58:29.137Z] Connected to MongoDB
+[2025-05-09T06:44:31.238Z] DELETE /api/auth/images/1746695917870-image-1746652730835.jpg
+[2025-05-09T06:44:39.123Z] DELETE /api/auth/images/1746695844509-image-1746652657475.jpg
+[2025-05-09T06:45:04.142Z] DELETE /api/auth/images/1746695812898-image-1746652625866.jpg
+[2025-05-09T06:46:48.159Z] DELETE /api/auth/images/1746695812898-image-1746652625866.jpg
+[2025-05-09T06:46:55.369Z] DELETE /api/auth/images/1746695917870-image-1746652730835.jpg
+[2025-05-09T06:48:45.197Z] DELETE /api/auth/images/1746695917870-image-1746652730835.jpg
+[2025-05-09T06:48:55.470Z] DELETE /api/auth/images/1746695917870-image-1746652730835.jpg
+[2025-05-09T06:50:13.183Z] DELETE /api/auth/images/1746695917870-image-1746652730835.jpg
+[2025-05-09T06:50:51.955Z] DELETE /api/auth/images/1746695917870-image-1746652730835.jpg
+[2025-05-09T06:50:58.273Z] DELETE /api/auth/images/1746695881356-image-1746652694317.jpg
+[2025-05-09T06:51:17.389Z] DELETE /api/auth/images/1746695917870-image-1746652730835.jpg
+[2025-05-09T06:53:24.252Z] DELETE /api/auth/upload/image/1746695917870-image-1746652730835.jpg
+[2025-05-09T06:53:32.600Z] DELETE /api/auth/upload/image/1746695881356-image-1746652694317.jpg
+[2025-05-09T06:55:05.845Z] DELETE /api/auth/delete-image/1746695917870-image-1746652730835.jpg
+[2025-05-09T06:55:11.879Z] DELETE /api/auth/delete-image/1746695881356-image-1746652694317.jpg
+[2025-05-09T06:55:47.499Z] DELETE /api/auth/delete-image/1746695844509-image-1746652657475.jpg
+[2025-05-09T06:57:17.248Z] DELETE /api/auth/images/delete/1746695881356-image-1746652694317.jpg
+[2025-05-09T06:57:22.966Z] DELETE /api/auth/images/delete/1746695917870-image-1746652730835.jpg
+[2025-05-09T06:58:40.165Z] DELETE /api/auth/upload/1746695917870-image-1746652730835.jpg
+[2025-05-09T07:01:43.148Z] DELETE /api/auth/delete/1746695917870-image-1746652730835.jpg
+[2025-05-09T07:02:46.424Z] DELETE /api/auth/delete-image/1746695917870-image-1746652730835.jpg
+[2025-05-09T07:03:45.284Z] Starting server...
+[2025-05-09T07:03:45.293Z] Server running on port 5000
+[2025-05-09T07:03:45.332Z] Connected to MongoDB
+[2025-05-09T07:47:22.287Z] Starting server...
+[2025-05-09T07:47:22.298Z] Server running on port 5000
+[2025-05-09T07:47:22.349Z] Connected to MongoDB
+[2025-05-09T07:59:47.122Z] DELETE /api/auth/images/1746695917870-image-1746652730835.jpg
+[2025-05-09T07:59:55.852Z] DELETE /api/auth/images/1746695917870-image-1746652730835.jpg
+[2025-05-09T08:02:20.316Z] DELETE /api/auth/images/1746694871314-image-1746651684282.jpg
+[2025-05-09T09:12:55.208Z] Starting server...
+[2025-05-09T09:12:55.217Z] Server running on port 5000
+[2025-05-09T09:12:55.257Z] Connected to MongoDB
+[2025-05-09T23:38:41.074Z] Starting server...
+[2025-05-09T23:38:41.181Z] Server running on port 5000
+[2025-05-09T23:38:41.355Z] Connected to MongoDB
+[2025-05-10T06:45:19.326Z] Starting server...
+[2025-05-10T06:45:19.341Z] Server running on port 5000
+[2025-05-11T06:41:57.829Z] Starting server...
+[2025-05-11T06:41:57.839Z] Server running on port 5000
+[2025-05-11T06:41:57.904Z] Connected to MongoDB
+[2025-05-11T07:02:01.167Z] DELETE /api/auth/images/1746778848593-image-1746735662273.jpg
+[2025-05-11T07:06:46.118Z] DELETE /api/auth/delete/1746778848593-image-1746735662273.jpg
+[2025-05-11T07:13:12.261Z] Starting server...
+[2025-05-11T07:13:12.435Z] Server running on port 5000
+[2025-05-11T07:13:12.570Z] Connected to MongoDB
+[2025-05-11T07:13:23.724Z] Starting server...
+[2025-05-11T07:13:23.739Z] Server running on port 5000
+[2025-05-11T07:13:23.782Z] Connected to MongoDB
+[2025-05-11T07:37:00.802Z] Starting server...
+[2025-05-11T07:37:00.818Z] Server running on port 5000
+[2025-05-11T07:37:00.864Z] Connected to MongoDB
+[2025-05-11T07:43:28.411Z] Starting server...
+[2025-05-11T07:43:28.425Z] Server running on port 5000
+[2025-05-11T07:43:28.477Z] Connected to MongoDB
+[2025-05-11T07:43:37.711Z] Starting server...
+[2025-05-11T07:43:37.724Z] Server running on port 5000
+[2025-05-11T07:43:37.767Z] Connected to MongoDB
+[2025-05-11T07:43:46.210Z] DELETE /api/auth/delete/:filename
+[2025-05-11T07:44:16.264Z] DELETE /api/auth/delete/1746778848593-image-1746735662273.jpg
+[2025-05-11T07:45:08.567Z] Starting server...
+[2025-05-11T07:45:08.593Z] Server running on port 5000
+[2025-05-11T07:45:08.663Z] Connected to MongoDB
+[2025-05-11T07:46:08.679Z] Starting server...
+[2025-05-11T07:46:08.714Z] Server running on port 5000
+[2025-05-11T07:46:08.806Z] Connected to MongoDB
+[2025-05-11T07:46:44.592Z] DELETE /api/auth/delete/1746695844509-image-1746652657475.jpg
+[2025-05-11T07:47:36.876Z] Server error: The "path" argument must be of type string. Received undefined
+TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+    at Object.join (node:path:460:7)
+    at E:\wallpaperweb usb\wallpaper\my-app\backend\routes\auth.js:234:25
+    at Layer.handleRequest (E:\wallpaperweb usb\wallpaper\my-app\backend\node_modules\router\lib\layer.js:152:17)
+    at next (E:\wallpaperweb usb\wallpaper\my-app\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\wallpaperweb usb\wallpaper\my-app\backend\node_modules\router\lib\route.js:117:3)
+    at handle (E:\wallpaperweb usb\wallpaper\my-app\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\wallpaperweb usb\wallpaper\my-app\backend\node_modules\router\lib\layer.js:152:17)
+    at E:\wallpaperweb usb\wallpaper\my-app\backend\node_modules\router\index.js:295:15
+    at processParams (E:\wallpaperweb usb\wallpaper\my-app\backend\node_modules\router\index.js:582:12)
+    at next (E:\wallpaperweb usb\wallpaper\my-app\backend\node_modules\router\index.js:291:5)
+[2025-05-11T07:51:06.977Z] Starting server...
+[2025-05-11T07:51:06.992Z] Server running on port 5000
+[2025-05-11T07:51:07.038Z] Connected to MongoDB
+[2025-05-11T07:53:37.662Z] DELETE /api/auth/delete/1746778848593-image-1746735662273.jpg
+[2025-05-11T07:57:49.114Z] Starting server...
+[2025-05-11T07:57:49.130Z] Server running on port 5000
+[2025-05-11T07:57:49.184Z] Connected to MongoDB
+[2025-05-11T07:58:05.791Z] DELETE /api/auth/delete
+[2025-05-11T08:00:33.828Z] Starting server...
+[2025-05-11T08:00:33.854Z] Server running on port 5000
+[2025-05-11T08:00:33.911Z] Connected to MongoDB
+[2025-05-11T08:00:39.996Z] Starting server...
+[2025-05-11T08:00:40.007Z] Server running on port 5000
+[2025-05-11T08:00:40.042Z] Connected to MongoDB
+[2025-05-11T08:05:17.338Z] Starting server...
+[2025-05-11T08:05:17.352Z] Server running on port 5000
+[2025-05-11T08:05:17.394Z] Connected to MongoDB
+[2025-05-11T08:05:28.541Z] Starting server...
+[2025-05-11T08:05:28.553Z] Server running on port 5000
+[2025-05-11T08:05:28.588Z] Connected to MongoDB
+[2025-05-11T08:13:40.331Z] Starting server...
+[2025-05-11T08:13:40.339Z] Server running on port 5000
+[2025-05-11T08:13:40.366Z] Connected to MongoDB
+[2025-05-11T08:15:31.446Z] Starting server...
+[2025-05-11T08:15:31.456Z] Server running on port 5000
+[2025-05-11T08:15:31.492Z] Connected to MongoDB
+[2025-05-11T08:16:36.467Z] Starting server...
+[2025-05-11T08:16:36.475Z] Server running on port 5000
+[2025-05-11T08:16:36.496Z] Connected to MongoDB
+[2025-05-11T08:17:09.540Z] Starting server...
+[2025-05-11T08:17:09.549Z] Server running on port 5000
+[2025-05-11T08:17:09.577Z] Connected to MongoDB
+[2025-05-11T08:22:48.079Z] Starting server...
+[2025-05-11T08:22:48.087Z] Server running on port 5000
+[2025-05-11T08:22:48.116Z] Connected to MongoDB
+[2025-05-11T08:23:53.607Z] Starting server...
+[2025-05-11T08:23:53.615Z] Server running on port 5000
+[2025-05-11T08:23:53.644Z] Connected to MongoDB
+[2025-05-11T08:25:59.934Z] Starting server...
+[2025-05-11T08:25:59.942Z] Server running on port 5000
+[2025-05-11T08:25:59.970Z] Connected to MongoDB
+[2025-05-11T09:42:25.595Z] Starting server...
+[2025-05-11T09:42:25.604Z] Server running on port 5000
+[2025-05-11T09:42:25.638Z] Connected to MongoDB
+[2025-05-11T10:20:06.004Z] DELETE /api/auth/images/1746695774875-image-1746652587812.jpg
+[2025-05-11T10:20:12.153Z] DELETE /api/auth/images/1746695774875-image-1746652587812.jpg
+[2025-05-11T10:58:10.465Z] Starting server...
+[2025-05-11T10:58:10.475Z] Server running on port 5000
+[2025-05-11T10:58:10.513Z] Connected to MongoDB
